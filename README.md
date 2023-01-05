@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tooba-afzal
 - 👀 I’m interested in interesting Software Testing Projects
-- 🌱 I’m currently learning interesting Test Automation frameworks like Selenium and Cypress
+- 🌱 I have experience in Test Automation frameworks like Playwright, Selenium and Cypress
 - 💞️ I’m looking to collaborate on sharing feedback on the code share from community
 - 📫 How to reach me via Linkedin / Github
 
